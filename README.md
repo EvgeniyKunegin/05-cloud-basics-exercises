@@ -2,6 +2,20 @@
 
 #### "Cloud Basics"
 
+
+Demo Project:
+	Create server and deploy application on DigitalOcean
+
+Technologies used:
+	DigitalOcean, Linux, Java, Gradle
+
+Project Description 
+	Setup and configure a server on DigitalOcean
+	Create and configure a new Linux user on the Droplet
+	(Security best practice)
+	Deploy and run a Java Gradle application on Droplet
+
+
 Use repository: https://gitlab.com/twn-devops-bootcamp/latest/05-cloud/cloud-basics-exercises
 
 You are asked to create a simple NodeJS app that lists all the projects each developer is working on. Everyone on your team wants to be able to see the list themselves and share with the project managers, so they ask you to make it available online, so everyone can access it.
